@@ -1,7 +1,7 @@
 Creative Processing
 =================
 
-A [Processing] (https://processing.org/) sketch collection that I use to teach Creative Coding in my courses at the [Academy of Fine Arts](http://www.accademiadiurbino.it) and [ISIA](http://isiaurbino.net), both in Urbino, Italy.
+A [Processing](https://processing.org/) sketch collection that I use to teach Creative Coding in my courses at the [Academy of Fine Arts](http://www.accademiadiurbino.it) and [ISIA](http://isiaurbino.net), both in Urbino, Italy.
 
 All the sketches and materials of other authors have always been released through GitHub or other open source modes and report the link to the official site.
 
