@@ -1,3 +1,3 @@
-All sketches here were coded by my students.
+All sketches here were coded by students.
 
 Credits in codes.
