@@ -7,8 +7,10 @@
     "it",
     "it-IT"
   ],
-  "attachmentFolderPath": "99_Allegati",
+  "attachmentFolderPath": "99_Media",
   "communityThemeSortOrder": "download",
   "communityPluginSortOrder": "download",
-  "promptDelete": false
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }

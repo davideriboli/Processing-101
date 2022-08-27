@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Useful Links.md",
+            "file": "01_Learning_Processing/001-HelloWorld/Hello World.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303
+    "width": 235
   },
   "right": {
     "id": "435f602aea95c45e",
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Links.md",
+                "file": "01_Learning_Processing/001-HelloWorld/Hello World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,6 +97,8 @@
   },
   "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
+    "Useful Links.md",
+    "Toolbox.md",
     "README.md",
     "01_Learning_Processing/001-HelloWorld/Hello World.md",
     "99_Media/Templates/Sketch_Tpl.md",
@@ -104,8 +106,6 @@
     "Test.md",
     "04_Alia/README.md",
     "03_Norns/README.md",
-    "02_Wotjia/README.md",
-    "01_VCV-Patches/README.md",
-    "01_Learning_Processing/0001-Patch, Modules & Colors/0001_Patch-Modules-Colors.md"
+    "02_Wotjia/README.md"
   ]
 }
