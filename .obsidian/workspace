@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Toolbox.md",
+            "file": "README.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Toolbox.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,20 +92,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226,
-    "collapsed": true
+    "width": 226
   },
   "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
+    "01_Learning_Processing/002-Point/Point.md",
+    "Toolbox.md",
     "01_Learning_Processing/001-HelloWorld/Hello World.md",
     "Useful Links.md",
-    "Toolbox.md",
     "README.md",
     "99_Media/Templates/Sketch_Tpl.md",
     "01_Learning_Processing/README.md",
     "Test.md",
     "04_Alia/README.md",
-    "03_Norns/README.md",
-    "02_Wotjia/README.md"
+    "03_Norns/README.md"
   ]
 }
