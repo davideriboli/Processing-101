@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbLink",
       "FasCode",
       "RiAttachmentLine",
       "RiNeteaseCloudMusicLine",
-      "RiFolderMusicFill",
-      "FasExclamation"
+      "RiFolderMusicFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,5 +26,6 @@
   "03_Furti": "RiDoubleQuotesL",
   "README.md": "FasExclamation",
   "99_Media": "RiAttachmentLine",
-  "01_Learning_Processing": "FasCode"
+  "01_Learning_Processing": "FasCode",
+  "Useful Links.md": "IbLink"
 }
