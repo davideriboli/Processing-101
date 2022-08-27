@@ -18,8 +18,8 @@
 
 #### Online books, courses and tutorials
 
-[Abe Pazos - Fun Programming](https://funprogramming.org/)
-[Daniel Shiffman - Learning Processing](http://learningprocessing.com/)
-[Daniel Shiffman - Nature of Code](https://natureofcode.com/book/)
-[Daniel Shiffman - P5.js 101](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
-[Federico Pepe - Impara a programmare in Processing](https://blog.federicopepe.com/processing/) (italian)
+- [Abe Pazos - Fun Programming](https://funprogramming.org/)
+- [Daniel Shiffman - Learning Processing](http://learningprocessing.com/)
+- [Daniel Shiffman - Nature of Code](https://natureofcode.com/book/)
+- [Daniel Shiffman - P5.js 101](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+- [Federico Pepe - Impara a programmare in Processing](https://blog.federicopepe.com/processing/) (italian)
