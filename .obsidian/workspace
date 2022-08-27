@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "c274eb32a5904299",
+    "type": "split",
+    "children": [
+      {
+        "id": "88e7aa5aaff355d4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01_Learning_Processing/001-HelloWorld/Hello World.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ebb02e2e6406f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "d04831e39a2b9d4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28aaaac65ab5d578",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa37c77b82d353b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303
+  },
+  "right": {
+    "id": "435f602aea95c45e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0613bcc6c89f323",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6c054d162cab96f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_Learning_Processing/001-HelloWorld/Hello World.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66aa3063873e9827",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226,
+    "collapsed": true
+  },
+  "active": "88e7aa5aaff355d4",
+  "lastOpenFiles": [
+    "99_Media/Templates/Sketch_Tpl.md",
+    "01_Learning_Processing/001-HelloWorld/Hello World.md",
+    "01_Learning_Processing/README.md",
+    "Test.md",
+    "README.md",
+    "04_Alia/README.md",
+    "03_Norns/README.md",
+    "02_Wotjia/README.md",
+    "01_VCV-Patches/README.md",
+    "01_Learning_Processing/0001-Patch, Modules & Colors/0001_Patch-Modules-Colors.md"
+  ]
+}

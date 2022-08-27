@@ -1,0 +1,22 @@
+{
+  "disabled": false,
+  "cardTitle": true,
+  "cardCornerRadius": 10,
+  "cardTitleCornerRadius": 5,
+  "cardDropShadow": true,
+  "removePaneBoundaries": true,
+  "hideScrollBar": false,
+  "colorBackGroundLight": "255, 255, 255",
+  "colorBackGroundDark": "33, 33, 33",
+  "colorActiveCardLight": "255, 255, 255",
+  "colorActiveCardDark": "71, 71, 71",
+  "colorNonActiveCardDark": "71, 71, 71",
+  "colorNonActiveCardLight": "255, 255, 255",
+  "colorTitleCardEdgeDark": "227, 76, 38",
+  "colorTitleCardEdgeLight": "123, 230, 1",
+  "colorTitleCardBackGroundLight": "242, 242, 242",
+  "colorTitleCardBackGroundDark": "0, 0, 0",
+  "colorDiffBetweenActive": 0,
+  "colorCardBorderLight": "255, 255, 255",
+  "colorCardBorderDark": "0, 0, 0"
+}

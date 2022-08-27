@@ -1,6 +1,5 @@
-Learning Processing
-=================
+# Processing 101
 
-A huge [Processing](https://processing.org/) sketches collection that I use in my creative coding courses at the [Academy of Fine Arts of Urbino](http://www.accademiadiurbino.it), [ISIA Faenza](http://isiafaenza.it), [ISIA Urbino](http://isiaurbino.net), in Italy.
+This repository contains all the materials from my courses on Processing. The repository is organized in the form of an Obsidian Vault, so you should get [Obsidian](https://obsidian.md/) first and then open the main directory as a *vault*.
 
-All the included sketches and materials of other authors have been released through various open source licenses: all archives always report the author's name and the link to the official site.
+The repository contains sketches made by me, other authors and my students. Credits are always given in the accompanying notes.

@@ -1,0 +1,14 @@
+{
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "foldHeading": true,
+  "foldIndent": false,
+  "spellcheckLanguages": [
+    "it",
+    "it-IT"
+  ],
+  "attachmentFolderPath": "99_Allegati",
+  "communityThemeSortOrder": "download",
+  "communityPluginSortOrder": "download",
+  "promptDelete": false
+}
