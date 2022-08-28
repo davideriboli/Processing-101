@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCalendarCheck",
       "RiShareFill",
       "FasToolbox",
       "IbLink",
-      "FasCode",
-      "RiAttachmentLine"
+      "FasCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,9 +25,8 @@
   "99_Allegati": "RiAttachment2",
   "03_Furti": "RiDoubleQuotesL",
   "README.md": "FasExclamation",
-  "99_Media": "RiAttachmentLine",
-  "01_Learning_Processing": "FasCode",
-  "Useful Links.md": "IbLink",
-  "Toolbox.md": "FasToolbox",
-  "LICENSE": "RiShareFill"
+  "LICENSE": "RiShareFill",
+  "001_Learning_Processing": "FasCode",
+  "Links&Tools": "FasToolbox",
+  "365_Processing": "FasCalendarCheck"
 }
