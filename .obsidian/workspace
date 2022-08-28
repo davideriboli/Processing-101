@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#stroke",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 219
   },
   "right": {
     "id": "435f602aea95c45e",
@@ -96,15 +96,15 @@
   },
   "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
-    "01_Learning_Processing/002-Point/Point.md",
     "Toolbox.md",
-    "01_Learning_Processing/001-HelloWorld/Hello World.md",
     "Useful Links.md",
+    "01_Learning_Processing/003-Line/Line.md",
+    "01_Learning_Processing/002-Point/Point.md",
+    "01_Learning_Processing/001-Hello_World/Hello_World.md",
     "README.md",
     "99_Media/Templates/Sketch_Tpl.md",
     "01_Learning_Processing/README.md",
     "Test.md",
-    "04_Alia/README.md",
-    "03_Norns/README.md"
+    "04_Alia/README.md"
   ]
 }
