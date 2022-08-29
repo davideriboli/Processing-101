@@ -1,5 +1,5 @@
 ---
-tags: ['background','displayHeight','displayWidth','draw()','line','random','setup','size','stroke','void']  
+tags: ['background','displayHeight','displayWidth','draw','line','random','setup','size','stroke','void']  
 ---
 
 #### Code
