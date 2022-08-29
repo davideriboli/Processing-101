@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "101_Processing/004-Ellipse/Ellipse.md",
-            "mode": "source",
+            "file": "101_Processing/005-Triangle_&_Rectangle/Triangle_&_Rectangle.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101_Processing/004-Ellipse/Ellipse.md",
+                "file": "101_Processing/005-Triangle_&_Rectangle/Triangle_&_Rectangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,10 +96,10 @@
   },
   "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
+    "101_Processing/004-Ellipse/Ellipse.md",
     "101_Processing/001-Hello_World/Hello_World.md",
     "101_Processing/003-Line/Line.md",
     "101_Processing/002-Point/Point.md",
-    "101_Processing/004-Ellipse/Ellipse.md",
     "README.md",
     "Links&Tools/Toolbox/Toolbox.md",
     "Links&Tools/Useful Links.md",
