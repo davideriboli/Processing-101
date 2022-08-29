@@ -1,13 +1,33 @@
 ---
-tags: [
-
-]  
+tags: ['background','displayHeight','displayWidth','draw()','line','random','setup','size','stroke','void']  
 ---
 
 #### Code
 
 ``` java
-size (20,20);
+
+void setup() {
+  size(500, 500);
+  background(0);
+}
+
+void draw() {
+  stroke(0,250,0);
+  line(width/2, height/2, random(width), random(height));
+}
+
+
+/*
+void setup() {
+  size(displayWidth, displayHeight);
+}
+
+void draw() {
+  background(0);
+  stroke(0,250,0);
+  line(width/2, height/2, random(width), random(height));
+}
+*/
 
 ```
 
@@ -25,4 +45,3 @@ size (20,20);
 - [size](https://processing.org/reference/size_.html)
 - [stroke](https://processing.org/reference/stroke_.html)
 - [void](https://processing.org/reference/void.html)
----

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "101_Processing/005-Triangle_&_Rectangle/Triangle_&_Rectangle.md",
-            "mode": "preview",
+            "file": "101_Processing/011-Paint_It_Black/Paint_It_Black.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#stroke",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101_Processing/005-Triangle_&_Rectangle/Triangle_&_Rectangle.md",
+                "file": "101_Processing/011-Paint_It_Black/Paint_It_Black.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,17 +94,17 @@
     "direction": "horizontal",
     "width": 226
   },
-  "active": "88e7aa5aaff355d4",
+  "active": "28aaaac65ab5d578",
   "lastOpenFiles": [
-    "101_Processing/004-Ellipse/Ellipse.md",
-    "101_Processing/001-Hello_World/Hello_World.md",
-    "101_Processing/003-Line/Line.md",
-    "101_Processing/002-Point/Point.md",
-    "README.md",
-    "Links&Tools/Toolbox/Toolbox.md",
-    "Links&Tools/Useful Links.md",
     "Links&Tools/Templates/Sketch_Tpl.md",
-    "Links&Tools/Toolbox/Glitch_Art_Processing_Tools/README.md",
-    "002_Generative_and_Glitch_Art_with_Processing/README.md"
+    "101_Processing/010-The_Power_of_Void/The_Power_of_Void.md",
+    "101_Processing/009-Alpha/Alpha.md",
+    "101_Processing/008-Red_Green_&_Blue/Red_Green_&_Blue.md",
+    "101_Processing/007-Absolute_vs_Relative/Absolute_vs_Relative.md",
+    "Senza nome.md",
+    "101_Processing/006-Smile/Smile.md",
+    "101_Processing/005-Triangle_&_Rectangle/Triangle_&_Rectangle.md",
+    "101_Processing/004-Ellipse/Ellipse.md",
+    "101_Processing/001-Hello_World/Hello_World.md"
   ]
 }
