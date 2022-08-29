@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379
+    "width": 263
   },
   "right": {
     "id": "435f602aea95c45e",
@@ -94,7 +94,7 @@
     "direction": "horizontal",
     "width": 226
   },
-  "active": "88e7aa5aaff355d4",
+  "active": "28aaaac65ab5d578",
   "lastOpenFiles": [
     "Links&Tools/Toolbox/Toolbox.md",
     "Links&Tools/Useful Links.md",
