@@ -1,0 +1,1 @@
+The sketches in this folder are all generative glitch scripts adapted for Processing 4 from those published by the [Tsulej repository](https://github.com/tsulej/GenerateMe).

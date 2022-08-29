@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "400_GenerateMe/README.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268
+    "width": 379
   },
   "right": {
     "id": "435f602aea95c45e",
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "400_GenerateMe/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,15 +96,15 @@
   },
   "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
-    "README.md",
-    "400_GenerateMe/README.md",
-    "365_Processing/README.md",
+    "Links&Tools/Toolbox/Toolbox.md",
     "Links&Tools/Useful Links.md",
-    "Links&Tools/Tools/Toolbox.md",
-    "001_Learning_Processing/003-Line/Line.md",
-    "001_Learning_Processing/002-Point/Point.md",
-    "001_Learning_Processing/001-Hello_World/Hello_World.md",
     "Links&Tools/Templates/Sketch_Tpl.md",
-    "01_Learning_Processing/README.md"
+    "Links&Tools/Toolbox/Glitch_Art_Processing_Tools/README.md",
+    "002_Generative_and_Glitch_Art_with_Processing/README.md",
+    "README.md",
+    "365_Processing/README.md",
+    "101_Processing/003-Line/Line.md",
+    "101_Processing/002-Point/Point.md",
+    "101_Processing/001-Hello_World/Hello_World.md"
   ]
 }

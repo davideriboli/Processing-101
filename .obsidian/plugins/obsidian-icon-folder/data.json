@@ -26,9 +26,8 @@
   "03_Furti": "RiDoubleQuotesL",
   "README.md": "RiFileWarningFill",
   "LICENSE": "RiFileWarningFill",
-  "001_Learning_Processing": "FasCode",
   "Links&Tools": "FasToolbox",
   "365_Processing": "FasCode",
-  "400_GenerateMe": "FasCode",
-  "400_GenerateMe/LICENSE": "RiFileWarningFill"
+  "Links&Tools/Toolbox/Glitch_Art_Processing_Tools/README.md": "RiFileWarningFill",
+  "101_Processing": "FasCode"
 }
