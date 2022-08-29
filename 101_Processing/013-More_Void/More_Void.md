@@ -1,27 +1,27 @@
 ---
-tags: ['background','draw','mouseX','mouseY','pmouseX','pmouseY','setup','size','stroke','strokeWeight','void']  
+tags: ['background','draw','keyPressed','line','mouseDragged','mouseX','mouseY','pmouseX','pmouseY','setup','size','stroke','void']  
 ---
 
 #### Code
 
 ``` java
 void setup() {
-  size(255, 255);
+  size(200, 200);
   background(255);
 }
 
 void draw() {
-  strokeWeight(10);
-  stroke(255,0,0);
+}
+
+void mouseDragged() {
+  stroke(0);
   line(pmouseX, pmouseY, mouseX, mouseY);
 }
 
-/*
-By changing a single line of code, what should
-you do to get a red line changing its intensity
-relative to the position of the mouse
-[0,0 = very dark red, almost black | 255,255 = full, intense red]?
-*/
+void keyPressed() {
+  background(255);
+}
+
 
 ```
 
@@ -31,6 +31,9 @@ relative to the position of the mouse
 
 - [background](https://processing.org/reference/background_.html)
 - [draw](https://processing.org/reference/draw_.html)
+- [keyPressed](https://processing.org/reference/keyPressed_.html)
+- [line](https://processing.org/reference/line_.html)
+- [mouseDragged](https://processing.org/reference/mouseDragged_.html)
 - [mouseX](https://processing.org/reference/mouseX.html)
 - [mouseY](https://processing.org/reference/mouseY.html)
 - [pmouseX](https://processing.org/reference/pmouseX.html)
@@ -38,6 +41,5 @@ relative to the position of the mouse
 - [setup](https://processing.org/reference/setup_.html)
 - [size](https://processing.org/reference/size_.html)
 - [stroke](https://processing.org/reference/stroke_.html)
-- [strokeWeight](https://processing.org/reference/strokeWeight_.html)
 - [void](https://processing.org/reference/void.html)
 ---
