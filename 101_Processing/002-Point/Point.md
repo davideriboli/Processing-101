@@ -61,11 +61,3 @@ point(500, 100);
 - [strokeWeight](https://processing.org/reference/strokeWeight_.html)
 
 ---
-
-#### Notes
-
-- Download: [[Point.zip]]
-
-*Please note that if you are browsing the page directly from the online GitHub repository, the Obsidian link will be inactive. The archive is located in the same folder of this file.*
-
----
