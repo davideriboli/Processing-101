@@ -1,5 +1,5 @@
 ---
-tags: ['background','ellipse','fill','noStroke','random','setup','size','void']  
+tags: ['background','ellipse','fill','float','noStroke','random','setup','size','void']  
 ---
 
 #### Code
@@ -133,6 +133,7 @@ void draw() {
 - [background](https://processing.org/reference/background_.html)
 - [ellipse](https://processing.org/reference/ellipse_.html)
 - [fill](https://processing.org/reference/fill_.html)
+- [float](https://processing.org/reference/float.html)
 - [noStroke](https://processing.org/reference/noStroke_.html)
 - [random](https://processing.org/reference/random_.html)
 - [setup](https://processing.org/reference/setup_.html)
