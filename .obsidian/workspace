@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "101_Processing/020_While/While.md",
-            "mode": "source",
+            "file": "101_Processing/021-Ode_to_Epilepsy/Ode_to_Epilepsy.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101_Processing/020_While/While.md",
+                "file": "101_Processing/021-Ode_to_Epilepsy/Ode_to_Epilepsy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -96,6 +96,7 @@
   },
   "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
+    "101_Processing/020-While/While.md",
     "101_Processing/019-Faites_Vos_Jeux/Faites_Vos_Jeux.md",
     "101_Processing/017-Mrs_Else/Mrs_Else.md",
     "101_Processing/010-The_Power_of_Void/The_Power_of_Void.md",
@@ -104,7 +105,6 @@
     "101_Processing/014-Move/Move.md",
     "101_Processing/018-Repetition_is_the_only_Change/Repetition_is_the_only_Change.md",
     "101_Processing/016-Know_Your_Limits/Know_Your_Limits.md",
-    "101_Processing/009-Alpha/Alpha.md",
-    "101_Processing/004-Ellipse/Ellipse.md"
+    "101_Processing/009-Alpha/Alpha.md"
   ]
 }
