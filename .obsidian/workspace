@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "101_Processing/014-Move/Move.md",
+            "file": "101_Processing/15-Dotty/Dotty.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#arc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101_Processing/014-Move/Move.md",
+                "file": "101_Processing/15-Dotty/Dotty.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -96,6 +96,7 @@
   },
   "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
+    "101_Processing/014-Move/Move.md",
     "101_Processing/013-More_Void/More_Void.md",
     "101_Processing/010-The_Power_of_Void/The_Power_of_Void.md",
     "101_Processing/009-Alpha/Alpha.md",
@@ -104,7 +105,6 @@
     "README.md",
     "Links&Tools/Templates/Sketch_Tpl.md",
     "101_Processing/008-Red_Green_&_Blue/Red_Green_&_Blue.md",
-    "101_Processing/007-Absolute_vs_Relative/Absolute_vs_Relative.md",
-    "Senza nome.md"
+    "101_Processing/007-Absolute_vs_Relative/Absolute_vs_Relative.md"
   ]
 }
