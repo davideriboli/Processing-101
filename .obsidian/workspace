@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "101_Processing/016-Know_Your_Limits/Know_Your_Limits.md",
-            "mode": "source",
+            "file": "101_Processing/018-Repetition_is_the_only_Change/Repetition_is_the_only_Change.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#println",
+                "query": "tag:#height",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 299
   },
   "right": {
     "id": "435f602aea95c45e",
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101_Processing/016-Know_Your_Limits/Know_Your_Limits.md",
+                "file": "101_Processing/018-Repetition_is_the_only_Change/Repetition_is_the_only_Change.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -94,17 +94,17 @@
     "direction": "horizontal",
     "width": 226
   },
-  "active": "28aaaac65ab5d578",
+  "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
-    "101_Processing/001-Hello_World/Hello_World.md",
+    "101_Processing/017-Mrs_Else/Mrs_Else.md",
+    "101_Processing/018-Repetition_is_the_only_Change/Repetition_is_the_only_Change.md",
+    "101_Processing/003-Line/Line.md",
+    "101_Processing/007-Absolute_vs_Relative/Absolute_vs_Relative.md",
+    "101_Processing/009-Alpha/Alpha.md",
     "101_Processing/016-Know_Your_Limits/Know_Your_Limits.md",
+    "101_Processing/001-Hello_World/Hello_World.md",
     "101_Processing/014-Move/Move.md",
     "101_Processing/015-Dotty/Dotty.md",
-    "101_Processing/013-More_Void/More_Void.md",
-    "101_Processing/010-The_Power_of_Void/The_Power_of_Void.md",
-    "101_Processing/009-Alpha/Alpha.md",
-    "101_Processing/011-Paint_It_Black/Paint_It_Black.md",
-    "101_Processing/012-Draw_It_Red/Draw_It_Red.md",
-    "README.md"
+    "101_Processing/013-More_Void/More_Void.md"
   ]
 }
