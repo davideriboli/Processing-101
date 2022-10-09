@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Links&Tools/Useful Links.md",
-            "mode": "preview",
+            "file": "README.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Links&Tools/Useful Links.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -96,8 +96,8 @@
   },
   "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
-    "README.md",
     "Links&Tools/Useful Links.md",
+    "README.md",
     "365_Processing/README.md",
     "Links&Tools/Toolbox/Glitch_Art_Processing_Tools/README.md",
     "999_Students/README.md",
