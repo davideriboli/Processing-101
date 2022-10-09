@@ -10,7 +10,7 @@
   "attachmentFolderPath": "99_Media",
   "communityThemeSortOrder": "download",
   "communityPluginSortOrder": "download",
-  "promptDelete": true,
+  "promptDelete": false,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true
 }
