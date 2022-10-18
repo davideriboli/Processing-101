@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#println",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -107,17 +107,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "88e7aa5aaff355d4",
+  "active": "28aaaac65ab5d578",
   "lastOpenFiles": [
-    "Links&Tools/Useful Links.md",
+    "101_Processing/A-Newbie/002-Point/Point.md",
     "README.md",
-    "365_Processing/README.md",
-    "Links&Tools/Toolbox/Glitch_Art_Processing_Tools/README.md",
-    "999_Students/README.md",
-    "101_Processing/B-Not_So_Newbie/007-RealityBender/RealityBender.md",
-    "101_Processing/B-Not_So_Newbie/005-Griddy/Griddy.md",
-    "101_Processing/B-Not_So_Newbie/006-DrawMe/DrawMe.md",
-    "101_Processing/A-Newbie/020-Magic_8_Ball/Magic_8_Ball.md",
-    "101_Processing/A-Newbie/018-Repetition_is_the_only_Change/Repetition_is_the_only_Change.md"
+    "101_Processing/A-Newbie/009-Alpha/Alpha.md",
+    "101_Processing/A-Newbie/001-Hello_World/Hello_World.md",
+    "101_Processing/B-Techie/007-RealityBender/RealityBender.md",
+    "101_Processing/A-Newbie/010-The_Power_of_Void/The_Power_of_Void.md",
+    "101_Processing/A-Newbie/023-Epilepsy_In_Quad/Epilepsy in Quad.md",
+    "101_Processing/A-Newbie/016-Know_Your_Limits/Know_Your_Limits.md",
+    "101_Processing/A-Newbie/011-Paint_It_Black/Paint_It_Black.md",
+    "Links&Tools/Useful Links.md"
   ]
 }
