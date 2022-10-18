@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "c274eb32a5904299",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5bf1e84bc63362d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e7aa5aaff355d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ebb02e2e6406f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "d04831e39a2b9d4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28aaaac65ab5d578",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa37c77b82d353b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#println",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346,
+    "collapsed": true
+  },
+  "right": {
+    "id": "435f602aea95c45e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0613bcc6c89f323",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6c054d162cab96f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66aa3063873e9827",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "88e7aa5aaff355d4",
+  "lastOpenFiles": [
+    "Links&Tools/Useful Links.md",
+    "README.md",
+    "365_Processing/README.md",
+    "Links&Tools/Toolbox/Glitch_Art_Processing_Tools/README.md",
+    "999_Students/README.md",
+    "101_Processing/B-Not_So_Newbie/007-RealityBender/RealityBender.md",
+    "101_Processing/B-Not_So_Newbie/005-Griddy/Griddy.md",
+    "101_Processing/B-Not_So_Newbie/006-DrawMe/DrawMe.md",
+    "101_Processing/A-Newbie/020-Magic_8_Ball/Magic_8_Ball.md",
+    "101_Processing/A-Newbie/018-Repetition_is_the_only_Change/Repetition_is_the_only_Change.md"
+  ]
+}

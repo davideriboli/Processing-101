@@ -4,5 +4,6 @@
   "interfaceFontFamily": "Source Sans Pro",
   "monospaceFontFamily": "Source Code Pro",
   "baseFontSizeAction": true,
-  "translucency": true
+  "translucency": false,
+  "accentColor": ""
 }
