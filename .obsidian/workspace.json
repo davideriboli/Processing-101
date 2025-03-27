@@ -15,9 +15,11 @@
               "state": {
                 "file": "README.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -39,8 +41,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
             }
           },
           {
@@ -55,15 +60,26 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "e3110f3c2ab5efe9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "435f602aea95c45e",
@@ -82,7 +98,9 @@
                 "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da README"
             }
           },
           {
@@ -92,8 +110,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
             }
           }
         ],
@@ -104,8 +126,11 @@
     "width": 304,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crea nuova lavagna": false,
+      "command-palette:Apri riquadro comandi": false
+    }
   },
   "active": "28aaaac65ab5d578",
   "lastOpenFiles": [
