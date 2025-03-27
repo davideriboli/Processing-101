@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "c274eb32a5904299",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5bf1e84bc63362d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e7aa5aaff355d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ebb02e2e6406f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "d04831e39a2b9d4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28aaaac65ab5d578",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "fa37c77b82d353b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "e3110f3c2ab5efe9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "435f602aea95c45e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0613bcc6c89f323",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6c054d162cab96f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da README"
+            }
+          },
+          {
+            "id": "66aa3063873e9827",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crea nuova lavagna": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "28aaaac65ab5d578",
+  "lastOpenFiles": [
+    "101_Processing/A-Newbie/002-Point/Point.md",
+    "README.md",
+    "101_Processing/A-Newbie/009-Alpha/Alpha.md",
+    "101_Processing/A-Newbie/001-Hello_World/Hello_World.md",
+    "101_Processing/B-Techie/007-RealityBender/RealityBender.md",
+    "101_Processing/A-Newbie/010-The_Power_of_Void/The_Power_of_Void.md",
+    "101_Processing/A-Newbie/023-Epilepsy_In_Quad/Epilepsy in Quad.md",
+    "101_Processing/A-Newbie/016-Know_Your_Limits/Know_Your_Limits.md",
+    "101_Processing/A-Newbie/011-Paint_It_Black/Paint_It_Black.md",
+    "Links&Tools/Useful Links.md"
+  ]
+}
